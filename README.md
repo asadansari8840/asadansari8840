@@ -8,7 +8,7 @@ Hey there! I'm Asad Ansari 😎
 🎯 Thrive in dynamic, fast-paced environments with a knack for team collaboration and independent problem-solving.
 
 
-🛠️ What I Do**
+## 🛠️ What I Do
 
 
 🌐 Build scalable web applications using React, Next.js, and Astro for stellar user experiences.
