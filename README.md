@@ -1,6 +1,5 @@
 Hey there! I'm Asad Ansari 😎
 
-
 📍 Delhi, India | 📧 asadansari.aa8840@gmail.com
 
 👨‍💻 Full Stack Developer with a passion for crafting intuitive, user-facing web and mobile apps.
@@ -9,7 +8,7 @@ Hey there! I'm Asad Ansari 😎
 🎯 Thrive in dynamic, fast-paced environments with a knack for team collaboration and independent problem-solving.
 
 
-**🛠️ What I Do**
+🛠️ What I Do**
 
 
 🌐 Build scalable web applications using React, Next.js, and Astro for stellar user experiences.
@@ -24,13 +23,13 @@ Hey there! I'm Asad Ansari 😎
 
 🐛 Squash bugs and refactor APIs to deliver lightning-fast responses.
 
-**🎓 Education ** 
+🎓 Education
 
 Bachelor's in Computer Application
 Jamia Hamdard University, New Delhi
 
 
-** 🌟 Fun Facts
+🌟 Fun Facts
 
 🧠 Always learning new tools and frameworks to stay ahead of the curve.
 
@@ -40,7 +39,7 @@ Jamia Hamdard University, New Delhi
 
 😄 Excited to connect and build something amazing together!
 
-**📫 Let's Connect!
+📫 Let's Connect!
 
 📧 Email: asadansari.aa8840@gmail.com
 
