@@ -1,4 +1,4 @@
-Hey there! I'm Asad Ansari 😎
+# Hey there! I'm Asad Ansari 😎
 
 📍 Delhi, India | 📧 asadansari.aa8840@gmail.com
 
@@ -11,25 +11,21 @@ Hey there! I'm Asad Ansari 😎
 ## 🛠️ What I Do
 
 
-🌐 Build scalable web applications using React, Next.js, and Astro for stellar user experiences.
+🌐 Build scalable web applications using React, Next.js for stellar user experiences.
 
-📱 Develop mobile apps with React Native for seamless cross-platform performance.
+📱 Develop mobile apps with React Native , Flutter for seamless cross-platform performance.
 
-
-⚙️ Engineer robust backend systems with Node.js, Express, and MongoDB.
-
-
-🔍 Optimize apps with Elasticsearch and Docker for efficiency and scalability.
+⚙️ Engineer robust backend systems with Node.js, Express, and MongoDB , Drizzle and other tooling.
 
 🐛 Squash bugs and refactor APIs to deliver lightning-fast responses.
 
-🎓 Education
+## 🎓 Education
 
 Bachelor's in Computer Application
 Jamia Hamdard University, New Delhi
 
 
-🌟 Fun Facts
+## 🌟 Fun Facts
 
 🧠 Always learning new tools and frameworks to stay ahead of the curve.
 
@@ -39,7 +35,7 @@ Jamia Hamdard University, New Delhi
 
 😄 Excited to connect and build something amazing together!
 
-📫 Let's Connect!
+## 📫 Let's Connect!
 
 📧 Email: asadansari.aa8840@gmail.com
 
