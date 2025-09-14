@@ -19,6 +19,20 @@
 
 🐛 Squash bugs and refactor APIs to deliver lightning-fast responses.
 
+
+## 💻 Hands-On Experience
+
+Frontend: React, React Native, Flutter, TypeScript, Tailwind CSS, Material UI, Shadcn
+
+Backend: Node.js, Express.js, Drizzle, MongoDB, Postgres
+
+Mobile: React Native, Flutter, Kotlin Multiplatform
+
+DevOps & Tools: Docker, AWS, Turbo Repos
+
+Focus: Building responsive, scalable, and user-friendly applications with modern frameworks and cloud technologies.
+
+
 ## 🎓 Education
 
 Bachelor's in Computer Application
